@@ -1,4 +1,6 @@
 This particular example was created for auto-trading the Trump-Xi call that took place on June 5, 2025.
+You can change all parameters to any future news and events you expect to happen.
+
 
 **Automated ADA Crypto-Futures Trading Bot** using Telegram, OpenAI, and Playwright
 
